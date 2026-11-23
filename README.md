@@ -38,10 +38,14 @@ pnpm preview  # 预览构建产物
 
 改稿只动 `index.tsx`：页面用 1920 × 1080 绝对像素排版，不新增依赖，不拆组件文件。
 
-## 三端仓库
+## 相关链接
 
-| 端 | 仓库 |
+| 内容 | 链接 |
 | --- | --- |
 | Android 客户端 | https://github.com/Offblink/Spore-Mobile |
 | MV3 扩展 | https://github.com/Offblink/Spore |
 | 桌面端 | https://github.com/Offblink/Spore-GUI |
+| 云端服务 | https://github.com/Offblink/Spore-Cloud |
+| 演示视频（87 秒） | https://github.com/Offblink/Spore-Promo/blob/main/public/out/v2/spore-v2-final.mp4 |
+
+视频工程、分镜与声音规范在 [Spore-Promo](https://github.com/Offblink/Spore-Promo)。
