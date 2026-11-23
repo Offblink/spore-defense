@@ -46,6 +46,4 @@ pnpm preview  # 预览构建产物
 | MV3 扩展 | https://github.com/Offblink/Spore |
 | 桌面端 | https://github.com/Offblink/Spore-GUI |
 | 云端服务 | https://github.com/Offblink/Spore-Cloud |
-| 演示视频（87 秒） | https://github.com/Offblink/Spore-Promo/blob/main/public/out/v2/spore-v2-final.mp4 |
-
-视频工程、分镜与声音规范在 [Spore-Promo](https://github.com/Offblink/Spore-Promo)。
+| 视频工程 | https://github.com/Offblink/Spore-Promo |
